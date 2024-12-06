@@ -14,6 +14,6 @@ A lightweight and customizable React table component with built-in **search** an
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/custom-react-table.git
-cd custom-react-table
+https://github.com/Angadkumar07/Table-With-Searching-And-Pagination.git
+cd Table-With-Searching-And-Pagination
 npm install
